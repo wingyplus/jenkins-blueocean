@@ -30,3 +30,7 @@ token-macro
 workflow-cps
 scm-api
 github-branch-source
+authentication-tokens
+icon-shim
+docker-commons
+docker-workflow
